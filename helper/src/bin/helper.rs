@@ -1,6 +1,6 @@
 use anyhow::Result;
 
 fn main() -> Result<()> {
-    let _ = helper::rank()?;
+    let _ = helper::sort()?;
     Ok(())
 }
